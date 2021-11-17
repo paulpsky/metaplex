@@ -5,4 +5,5 @@ export enum CreatePackSteps {
   // SalesSettings,
   // DesignAndInfo,
   ReviewAndMint,
+  DesignAndInfo,
 }
